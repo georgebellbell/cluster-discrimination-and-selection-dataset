@@ -1,0 +1,3 @@
+Task,Metric,Test,Statistic,p-value,Ego_Median,Exo_Median,Better,Shapiro_p
+denoising,percentage_look_time,Paired t-test,-18.68313877178694,5.583028569319065e-25,0.5018432681275717,0.9818656480288177,EXOCENTRIC,0.6945430173696461
+seperating,percentage_look_time,Wilcoxon signed-rank,0.0,1.6256984569330967e-10,0.7099976658141327,0.9856910011265926,EXOCENTRIC,6.459198743738078e-05

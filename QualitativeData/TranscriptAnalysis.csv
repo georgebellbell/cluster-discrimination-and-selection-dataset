@@ -1,0 +1,100 @@
+﻿Participant;Timestamp;Transcript Segment;Code;SubCode;Notes;Theme;;;;;;;
+P01;00:00:28;From outside I felt I had more clarity on the cluster;Overview and Clarity;Exocentric;;;;;;;;;
+P01 ;00:00:28;When I was inside..I couldn't make out the whole cluster at once;Loss of Information;Egocentric;;;;;;;;;
+P01;00:01:12;I was able to view all the edges and the endpoints and I was able to demarcate if there was a non-cluster and I could remove it;Overview and Clarity;Exocentric;;;;;;;;;
+P01;00:01:51;Had to see every angle of it like I was in the centre and I was looking all around;Effort and Speed;Egocentric;;;;;;;;;Overview and Clarity - From outside participants could access more information and understand the plot
+P01;00:01:51;When I was outside the cluster it looked like I was viewing everything from the top;Overview and Clarity;Exocentric;;;;;;;;;Loss of information
+P01;00:02:04;It was harder from within the cluster compared to viewing it from without;Effort and Speed;Egocentric;;;;;;;;;Zooming out - participants needed to back up to understand visualisation
+P01;00:02:04;It was harder from within the cluster compared to viewing it from without;Effort and Speed;Exocentric;;;;;;;;;Precision - could be more accurate
+P01;00:02:37;When I had to demarcate two different clusters I was making more mistakes. I was unable to find exactly what should be excluded;Misunderstanding;Seperation;Indicates a misunderstanding of the task, trying to apply denoising rather than seperating the two clusters;;;;;;;;Finding a plane/dividing line - separation task accomplished by finding a plane where a dividing line could be used
+P01;00:03:06;I used the same strategy. I found the cluster then I had to remove what was not part of the cluster;Pruning;Denoising;Answer to use of different strategies;;;;;;;;Ambiguous boundary - denoising task got increasingly difficult as you moved away from the border
+P01;00:03:06;I used the same strategy. I found the cluster then I had to remove what was not part of the cluster;Pruning;Seperation;Answer to use of different strategies;;;;;;;;Pruning - denoising task - Selecting general area and then removing non cluster points
+P01;00:03:48;If I could visualise drawing a straight line or if I could tilt the 3D space in such a way that there is a straight line between those two I can demarcate well;Dividing Line;Seperation;;;;;;;;;Disorientation and comfort
+P01;00:03:48;If there is more denser noise on the side, it's harder to find the cluster;Effort and Speed;Denoising;;;;;;;;;Effort and Speed - how much work it took and how long it took
+P02;00:00:29;I feel it was easier to distinguish the scattering when I was inside rather than outside.;Effort and Speed;Egocentric;;;;;;;;;Misunderstanding
+P02;00:00:29;I feel it was easier to distinguish the scattering when I was inside rather than outside.;Effort and Speed;Exocentric;;;;;;;;;
+P02;00:00:38;When we had to exclude the scatterplots from outside like the  zoomed out view, it felt more like the lot of scattering balls;Loss of Information;Exocentric;;;;;;;;;
+P02;00:00:54;Almost on the same plane or like the same XYZ. It felt hard to distguish if apart of A or if it’s the same level;Loss of Information;Exocentric;XYZ refers to depth (Z);;;;;;;;
+P02;00:01:22;When I was outside, I would like rotate the whole model. To see, like from every angle;Finding a plane/angle;Exocentric;;;;;;;;;
+P03;00:00:26; I think the outside was maybe easier because you could see the big picture, the clusters become more apparent;Overview and Clarity;Exocentric;;;;;;;;;
+P03;00:00:26;But then it was kind of harder when you're outside to sort of finetune it;Precision;Exocentric;;;;;;;;;
+P03;00:00:41;I think you probably got it more accurate when you're inside;Precision;Egocentric;;;;;;;;;
+P03;00:00:41;Even if it was easier to just get a start when it was outside;Effort and Speed;Exocentric;;;;;;;;;
+P03;00:01:15;Do the drag and slide so you get a good start and then sort of fine tune it by looking around;Pruning;Exocentric;;;;;;;;;
+P03;00:01:15;Do the drag and slide so you get a good start and then sort of fine tune it by looking around;Pruning;Egocentric;;;;;;;;;
+P03;00:02:01;Sometimes really challenging, even when it was a quite clear cluster;Effort and Speed;Denoising;;;;;;;;;
+P03;00:02:10;You didn't really know where to stop;Ambiguous boundary;Denoising;;;;;;;;;
+P03;00:02:15;It's quite easy to see where the dividing between the two different clusters were.;Dividing Line;Seperation;;;;;;;;;
+P03;00:02:36;Bigger picture 1st and then refining it so.;Overview and Clarity;Denoising;;;;;;;;;
+P03;00:02:57; getting the two main bits, the two clusters, and then working through the no man's land in between.;Dividing Line;Seperation;;;;;;;;;
+P04;00:00:30; having a look around  when I was cursing my mouse all over the screen so it's give me like very high look on my eyes like my eyes literally fell heavier compared to the other one.;Disorientation and comfort;Egocentric;Discomfort;;;;;;;;
+P04;00:01:05;Im just putting the colour in it and the I'm making the version like putting the orange colour on the scatterplot, which is going increasing and the blue which is going downwards;Misunderstanding;Seperation;Using values to encode other metric, misunderstood task;;;;;;;;
+P05;00:00:28;You can just go a bit backwards and then you can circle around it;Zooming out;Egocentric;;;;;;;;;
+P05;00:00:28;when you're actually fully inside a data point, it's way harder;Effort and Speed;Egocentric;;;;;;;;;
+P05;00:00:28;the freedom to wherever you want to also does help a little bit;Flexibility;Egocentric;;;;;;;;;
+P05;00:01:01;Going on a plane and rotating around a plane and doing that across 3 or 4 different planes one by one;Finding a plane/angle;Egocentric;;;;;;;;;
+P05;00:01:36;Separating 2 clusters was way easier.  I'd line divide them;Dividing Line;Seperation;;;;;;;;;
+ P05;00:02;Finding the distance per node and then when you see what the cluster node was and then find a boundary between these two because the center of a cluster is quite obvious but then the further you go out the more difficult it becomes to differentiate;Ambiguous boundary;Denoising;;;;;;;;;
+P05;00:02:26;main strategy for the two clusters was finding a dividing line and like seeing because sometimes it could be like bleed through, like normally those clear lines splitting the clusters;Dividing Line;Seperation;;;;;;;;;
+P07;00:00:35;I feel like exocentric had a better view of the space to be able to, especially for the second task where you were splitting the two. It felt like easier to kind of notice the two clusters;Overview and Clarity;Exocentric;;;;;;;;;
+P07;00:01:27;Definitely easier seperating two clusters;Effort and Speed;Seperation;;;;;;;;;
+P07;00:01:33;harder to find the exact line that split them, but it was easier compared to finding the boundaries of the cluster within the other version.;Dividing Line;Seperation;;;;;;;;;
+P07;00:01:33;harder to find the exact line that split them, but it was easier compared to finding the boundaries of the cluster within the other version.;Ambiguous boundary;Denoising;;;;;;;;;
+P07;00:01:59; one class I was just highlighting the general area and then getting rid of the ones that I didn't think were part of that;Pruning;Denoising;;;;;;;;;
+P07;00:01:59;I was just trying to look for the midpoint more than anything;Finding midpoint;Denoising;;;;;;;;;
+P08;00:00:35; I prefer the exocentric a lot more. I thought it was so much easier to visualise like the actual data clusters when looking at it from outside the plot;Overview and Clarity;Exocentric;;;;;;;;;
+P08;00:00:52;The axis has helped as well, so having the X axis and the Y axis visible when looking at the plot was very useful. I;Interesting;;;;;;;;;;
+P09;00:00:52; When you're egocentric you got a bit disorientated I think when I was within the plot ;Disorientation and comfort;Egocentric;;;;;;;;;
+P09;00:01:15;When I was inside the plot, I had to zoom out rather than like having to rotate the plot to have a look at What was going on;Zooming out;Egocentric;;;;;;;;;
+P09;00:01:15;Looking outside the plot, I was just rotating things around and changing the anglest and that didn't really work from inside the plot;Effort and Speed;Exocentric;;;;;;;;;
+P09;00:01:55;If you were having a look at a cluster with the noise and there was quite a lot of noise, it was hard to distinguish;Ambiguous boundary;Denoising;;;;;;;;;
+P09;00:02:32; I think that's the kind of data I'm more used to processing. From the 3D point of view. Anyway, most of my stuff is 2D so that could lead into it;Familiarity;Exocentric;;;;;;;;;
+P10;00:00:47;I prefer the outside viewing because I think I can see the overall mapping, the whole picture;Overview and Clarity;Exocentric;;;;;;;;;
+P10;00:00:47;When I zoom in, I will feel maybe I will ignore something else;Loss of Information;Egocentric;;;;;;;;;
+P11;00:00:31;I could rotate around the outside better, I felt more comfortable being able to get around it easier and have a look.;Disorientation and comfort;Exocentric;;;;;;;;;
+P11;00:00:38;I couldn't really grasp it when I was stuck inside it;Disorientation and comfort;Egocentric;;;;;;;;;
+P11;00:00:49;inside I had to kind of edge it around a bit, move it slowly sideways, then flip the angles;Effort and Speed;Egocentric;;;;;;;;;
+P11;00:00:49;when you're on the outside you can spin it around a lot easier.;Effort and Speed;Exocentric;;;;;;;;;
+P11;00:00:59;it was a slower repositioning when I was inside it;Effort and Speed;Egocentric;;;;;;;;;
+P12;00:00:30;having the ability just to go around the data, exocentric, was just more, it was more convenient;Effort and Speed;Exocentric;;;;;;;;;
+P12;00:00:30; suddenly being frusted into the centre of the data and trying to find the views in the egocentric was a bit more difficult;Disorientation and comfort;Egocentric;;;;;;;;;
+P12;00:01:17;Inside it took a bit longer to find views that looked like showing the different clusters. So there was a lot more exploration in that;Effort and Speed;Egocentric;;;;;;;;;
+P12;00:01:53;was a lot of trying to find the right angle where to see if there were clusters. ;Finding a plane/angle;Seperation;;;;;;;;;
+P12;00:02:10;in the single cluster task, I instantly spotted where it was, selected them all, changed the view 90 degrees, did it again. hen to 90 degrees at the top, did it again, and then started clearing off all the things that weren't part of the cluster;Pruning;Denoising;;;;;;;;;
+P13;00:00:30;when you're from the outside perspective and able to sort of rotate everything and turn it, makes it a lot easier to see where certain things are;Overview and Clarity;Exocentric;;;;;;;;;
+P13;00:00:30; when you're in the centre of it you have to gauge things based on position, size, and things like that. ;Precision;Egocentric;;;;;;;;;
+P13;00:01:13; begin by sort of rotating it in a certain way, then essentially take a hacksaw to it, block out a large area, then twist and rotate to carve out the bit. ;Pruning;Exocentric;;;;;;;;;
+P13;00:01:28;looking around every direction to make sure that where things sort of lie is;Effort and Speed;Egocentric;;;;;;;;;
+P14;00:00:29; I found the exocentric view much easier, but it wasn't as large as when I did the second-half of the experiment ;Effort and Speed;Exocentric;Seperation had a less pronounced improvement from ego to exo;;;;;;;;
+P14;00:01:28;I kind of just selected where I thought was the cluster and then I rotated it about 90 degrees and then I could see where I clicked like the externally where it wasn't and then I just kind of selected them and took them out;Pruning;Denoising;;;;;;;;;
+P15;00:00:31;It's convenient when you want to zoom in clearly on the data, if you want to be very precise;Precision;Egocentric;;;;;;;;;
+P15;00:00:42; when you're outside the scatter plot, you have a clearer, like high-level picture of what's going on;Overview and Clarity;Exocentric;;;;;;;;;
+P15;00:00:50; I think the exocentric, right, were faster, usually, when the egocentric were more precise;Precision;Egocentric;;;;;;;;;
+P15;00:00:50; I think the exocentric, right, were faster, usually, when the egocentric were more precise;Effort and Speed;Exocentric;;;;;;;;;
+P15;00:01:12;the first thing I always did when I was in the egocentric, I had to zoom out. So again, I kind of wanted to see where the cluster is.;Zooming out;Egocentric;;;;;;;;;
+P15;00:01:21;exocentric is one rotating, trying to find, for instance, the separation, maybe in some, with some rotation it's clearer, some rotation it hides it.;Finding a plane/angle;Exocentric;;;;;;;;;
+P15;00:01:34; always it was a matter of rotation, trying to get a kind of a 360 point of view of the data and see which angle gave me the best clear picture;Overview and Clarity;Egocentric;;;;;;;;;
+P15;00:01:34; always it was a matter of rotation, trying to get a kind of a 360 point of view of the data and see which angle gave me the best clear picture;Overview and Clarity;Exocentric;;;;;;;;;
+P15;00:02:01;separation was a bit easier, like between the two clusters, because most of the time, not always, there was an angle where the separation was quite clear;Finding a plane/angle;Seperation;;;;;;;;;
+P15;00:02:20;it was a bit harder to define a boundary around the cluster;Ambiguous boundary;Denoising;;;;;;;;;
+P15;00:02:52;I feel like this was a bit more complicated because you have to rotate it in 360, like try to find all possible angles around the cluster.;Effort and Speed;Denoising;;;;;;;;;
+P15;00:03:05; you usually could find one precise angle where you could very easily see the separation and then you could align the two different ones.;Finding a plane/angle;Seperation;;;;;;;;;
+P16;00:00:34;From outside it's more intuitive. You can immediately kind of discern the cluster;Overview and Clarity;Exocentric;;;;;;;;;
+P16;00:00:47;You Inevitably have to zoom out;Zooming out;Egocentric;;;;;;;;;
+P16;00:00:57;I think that there is some value in zooming in for sure to potentially identify specific ones.;Precision;Egocentric;;;;;;;;;
+P16;00:01:17;my strategy was mainly to kind of zoom out and kind of reduce to prune from the outside from different angles;Pruning;Denoising;;;;;;;;;
+P16;00:02:37;a bit subjective;Ambiguous boundary;Denoising;Border was slightly subjective around cluster;;;;;;;;
+P16;00:03:01;The ones that didn't have the noise, you could kind of just, drag around them and, just go from maybe different angles;Pruning;Denoising;;;;;;;;;
+P16;00:03:13;But generally speaking, you could find like one, pretty much just one viewing angle and capture most of it.;Finding a plane/angle;Seperation;;;;;;;;;
+P16;00:03:23;you had to change different angles and prune.;Pruning;Denoising;;;;;;;;;
+P17;00:00:25; outside view can give a very, how do I say that, a top view that can see all of the dot distributions;Overview and Clarity;Exocentric;;;;;;;;;
+P17;00:00:40; for inside view, I need to go around the whole space, try to distinguish whether this one is distinguished with the other ones, and move my view again and again and again;Effort and Speed;Egocentric;;;;;;;;;
+P17;00:00:55;even though I was fully bounded within the box, I was still trying to find the farthest view, try to do the task;Zooming out;Egocentric;;;;;;;;;
+P17;00:01:23; outside the box views, I can easily I can easily just pick as many as I want and then get rid of it;Effort and Speed;Exocentric;;;;;;;;;
+P17;00:01:52;when I dive into the box, I will say that my strategy is try to pick it one by one because it's too close.;Precision;Egocentric;Forced precision?;;;;;;;;
+P17;00:02:38; I would say that finding a cluster center is easy but determining the boundary is quite  difficult.;Ambiguous boundary;Denoising;;;;;;;;;
+P17;00:02:48;even though it's a 3D task, but I will treat it as a 2D task because as long as you find the best view that can project those dots in the 2D place, and then find the margin between the two clusters, then I can just easily distinguish those two.;Finding a plane/angle;Seperation;;;;;;;;;
+P18;00:00:58;When rotating it, I found that some part of the points are centralized;Finding midpoint;Egocentric;Using motion cue;;;;;;;;
+P18;00:01:56;to separate two clusters they are just like a picture, a 2D picture is easier to choose;Finding a plane/angle;Seperation;;;;;;;;;
+P18;00:02:17; I need to turn to the different direction to delete the other ones, to delete the ones that do not belong to the cluster;Pruning;Denoising;;;;;;;;;
+P19;00:01:25;very clearly to find the selector, the group point;Finding midpoint;Egocentric;;;;;;;;;
