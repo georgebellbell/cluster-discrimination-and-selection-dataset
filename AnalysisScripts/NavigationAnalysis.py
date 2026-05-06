@@ -46,8 +46,8 @@ def compute_time_averages(group):
     group = group.sort_values('TIMESTAMP')
     start = group['StartingTime'].iloc[0]
     rel_time = group['TIMESTAMP'] - start
-    first5 = group[rel_time <= 3]['DistanceToA'].mean()
-    next5 = group[(rel_time > 3) & (rel_time <= 6)]['DistanceToA'].mean()
+    first5 = group[rel_time <= 5]['DistanceToA'].mean()
+    next5 = group[(rel_time > 5) & (rel_time <= 10)]['DistanceToA'].mean()
     return pd.Series({'avg_distance_first5': first5, 'avg_distance_next5': next5})
 
 df_movement = LoadMovementData()
