@@ -1,4 +1,4 @@
-# The impact of viewpoint configuration on 3D cluster discrimination and selection
+# The impact of viewpoint on 3D cluster discrimination and selection
 
 This repository contains the raw data, interview transcript data and data analysis scripts used in the paper.
 
